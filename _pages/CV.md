@@ -1,8 +1,13 @@
 ---
-permalink: /CV/
 title: "Résumé 简历"
+layout: home
+permalink: /CV/
+author_profile: true
+excerpt: 'Here is my education background and other things related'
+header:
+  overlay_image: #/images/paris.jpg
+  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 ---
-
 
 ### My CV has been attached: ([CV](/file/CV.pdf) as 2022/08)
 
