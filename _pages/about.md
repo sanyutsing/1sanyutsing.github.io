@@ -1,2 +1,4 @@
+---
 permalink: /about/
 title: "Info"
+---
