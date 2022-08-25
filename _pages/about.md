@@ -4,7 +4,7 @@ title: "Résumé 简历"
 ---
 
 
-### My CV has been attached: ([CV]/file/CV.pdf  as 2022/08)
+### My CV has been attached: ([CV](/file/CV.pdf) as 2022/08)
 
 ## Education 
 
