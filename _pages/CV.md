@@ -1,5 +1,5 @@
 ---
-permalink: /CV/
+permalink: /tags/CV
 title: "Résumé 简历"
 ---
 
