@@ -3,6 +3,9 @@ permalink: /about/
 title: "Résumé 简历"
 ---
 
+
+### My CV has been attached: (CV as 2022/08)
+
 ## Education 
 
 #### Phd in Mathematics: the University of British Columbia
@@ -33,3 +36,17 @@ Advisers: Prof. Li, Dong & Prof. Wetton, Brian
 #### Bsc in Mathematics with Honors, First Class: the Chinese University of Hong Kong  
 
 Areas: Computational & Applied Maths; Enrichment Stream in Maths.
+
+--------------------------------
+
+
+
+
+##  Honors and awards
+
+#### Fudan University
+
+
+
+
+
