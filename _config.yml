@@ -17,10 +17,10 @@ minimal_mistakes_skin    : "default" #, "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Rafael Cartenet"
+title                    : "Xinyu's site"
 title_separator          : "|"
-name                     : "Rafael Cartenet"
-description              : "Data Engineer Portfolio"
+name                     : "Xinyu Cheng"
+description              : "pde\analysis\numerics"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -101,36 +101,36 @@ analytics:
 
 # Site Author
 author:
-  name             : "Rafael Cartenet"
-  avatar           : "/images/profile_picture.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Data Engineer"
+  name             : "Xinyu Cheng"
+  avatar           : "/assets/images/bio.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "pde\analysis\numerics"
   location         : "Shanghai - China"
-  email            : "rafael.cartenet@gmail.com"
+  email            : "xycheng AT fudan DOT edu DOT cn"
   uri              :
-  home             : # null (default), "absolute or relative url to link to author home"
+  home             : "https://sites.google.com/view/xycheng" # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "RafaelCartenet"
+  github           : "sanyutsing"
   gitlab           :
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "rafaelcartenet" # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
+  linkedin         : "" # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   pinterest        :
   soundcloud       :
-  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
-  steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
+  stackoverflow    : # "" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
+  steam            : # "" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
   twitter          :
   vine             :
   weibo            :
   xing             :
-  youtube          : # "https://youtube.com/c/MichaelRoseDesign"
+  youtube          : # ""
 
 
 # Reading Files
