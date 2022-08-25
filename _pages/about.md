@@ -13,6 +13,7 @@ Thesis: <u>Analytical and numerical results for phase field, implicit free bound
 
 Advisers: Prof. Li, Dong & Prof. Wetton, Brian
 
+***
 
 
 
@@ -26,7 +27,7 @@ Thesis: <u>On the Stability of a Semi-Implicit Scheme of Cahn-Hilliard Type Equa
 Advisers: Prof. Li, Dong & Prof. Wetton, Brian
 
 
-
+***
 
 
 #### Bsc in Mathematics with Honors, First Class: the Chinese University of Hong Kong  
