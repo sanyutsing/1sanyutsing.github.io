@@ -13,12 +13,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: D.Li
-email: lid AT sustech DOT edu DOT cn
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+title: X. Cheng
+email: xycheng AT fudan.edu.cn
+description: >- # Dr. Xinyu Cheng 程新宇博士\ math\ pde\ analysis & numerics
 twitter_username: username
 github_username: username
 minimal_mistakes_skin: default
@@ -58,13 +55,13 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Prof. Dong Li"
+  name   : "Xinyu Cheng "
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "书礼传家"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://icm.sustech.edu.cn/lidong/"
+      url: "https://sites.google.com/view/xycheng"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"
