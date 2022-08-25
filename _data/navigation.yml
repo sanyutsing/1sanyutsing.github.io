@@ -1,9 +1,14 @@
+# main links
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
+  - title: "CV 简历"
+    url: /CV/
+  - title: "Research 研究"
+    url: /blog/
   - title: "About"
-    url: /about/
+    url: https://sanyutsing.github.io/
+  # - title: "About"
+  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
