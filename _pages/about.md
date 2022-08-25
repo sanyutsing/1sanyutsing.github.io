@@ -1,5 +1,5 @@
 ---
-permalink: /about/
+permalink: /CV 简历/
 title: "Résumé 简历"
 ---
 
