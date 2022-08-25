@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: X. Cheng
+title: Xinyu's site
 email: xycheng AT fudan DOT edu DOT cn
 description: >- # Dr. Xinyu Cheng 程新宇博士\ math\ pde\ analysis & numerics
 twitter_username: username
