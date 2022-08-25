@@ -1,1 +1,2 @@
-
+permalink: /about/
+title: "Info"
