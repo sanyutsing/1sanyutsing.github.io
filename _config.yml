@@ -102,7 +102,7 @@ analytics:
 # Site Author
 author:
   name             : "Xinyu Cheng"
-  avatar           : "/assets/images/bio.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "pde\analysis\numerics"
   location         : "Shanghai - China"
   email            : "xycheng AT fudan DOT edu DOT cn"
